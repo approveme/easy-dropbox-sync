@@ -3,36 +3,10 @@
 Contributors: Kevin Michael Gray
 Contributors Website: www.wp-e-signature.com
 Tags: Easy Digital Downloads, Dropbox Sync
-Extension URL: https://easydigitaldownloads.com/extensions/dropbox-sync?ref=1065
-Documentation: https://easydigitaldownloads.com/docs/dropbox-sync-setup-documentation?ref=1065
 License: GPLv2
 
-== Description ==
 
-Dropbox Sync allows you to sync in real-time a PDF purchase receipt with your Dropbox account. When a successful order is triggered from your store, Dropbox sync will automatically create a PDF using the template that you created (yes you can use shortcodes, html, and more in the template), Dropbox Sync then stores the generated PDF in real-time in your Dropbox account.
-
-Dropbox Sync is extremely useful for accounting purposes, you can easily store PDF exports in real-time of purchase orders and purchase receipts.
-
-== THE TEMPLATE ==
-
-We created this helpful html template for you to paste into the “Dropbox Sync” template page.  WordPress requires the css to be passed inline the html using style=“” tags in order to properly format the pdf receipt that is exported when a user makes a purchase using your Easy Digital Downloads plugin and WordPress website.
-
-== INSTRUCTIONS ==
-
-1. Install Easy Digital Downloads
-
-2. Install Dropbox Sync
-
-3. Enter License key for Dropbox Sync
-
-4. Sync/Authenticate your Dropbox Account with EDD Dropbox Sync
-
-5. Copy and paste the html below into the text editor which is displayed once you have successfully synced your Dropbox account with Easy Digital Downloads.
-
-6. Customize content/information in the html text editor to taste.
-
-
-== COPY THE HTML BELOW INTO TEXT EDTIOR ==
+=== COPY THE HTML BELOW INTO EDD DROPBOX SYNC TEXT EDTIOR ===
 
 
 <div style="font-family: Arial;">
