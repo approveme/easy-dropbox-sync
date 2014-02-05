@@ -1,14 +1,3 @@
-=== Easy Digital Downloads - Dropbox Sync ===
-
-Contributors: Kevin Michael Gray
-Contributors Website: www.wp-e-signature.com
-Tags: Easy Digital Downloads, Dropbox Sync
-License: GPLv2
-
-
-=== COPY THE HTML BELOW INTO EDD DROPBOX SYNC TEXT EDTIOR ===
-
-
 <div style="font-family: Arial;">
 <div style="z-index: 10; position: relative; margin-left: 0.5in; min-height: 90px;">
 <div style="font-family: Arial;float: left; width: 300px; margin-bottom: 20px;">{sitename}<br />555 My Street Blvd<br />Suite #249<br />Portland OR  97232</div>
